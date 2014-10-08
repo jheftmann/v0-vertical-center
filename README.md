@@ -2,7 +2,7 @@
 
 Vertically center an object within its container.
 
-(Demo)[https://github.com/jheftmann/v0-vertical-center]
+[Demo](https://github.com/jheftmann/v0-vertical-center)
 
 ## Installation
 1. Link to jQuery
